@@ -36,9 +36,5 @@ This repository contains implementations of widely-used sorting algorithms in Ja
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-sorting-algorithms.git
+   git clone https://github.com/C-P-AMUTHAN/Sorting-algorithms-Java.git
 
-2. cd java-sorting-algorithms
-
-
-This `README.md` clearly outlines the included algorithms, usage instructions, and invites contributions. It’s tailored for Java developers or students who want to explore or implement sorting techniques.
